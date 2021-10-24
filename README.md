@@ -1,9 +1,4 @@
-<!doctype html>
 
-<html>
-<head>
-<title>This is the title</title>
-</head>
 
 <body>
 <h1>Kevein Legerme</h1>
